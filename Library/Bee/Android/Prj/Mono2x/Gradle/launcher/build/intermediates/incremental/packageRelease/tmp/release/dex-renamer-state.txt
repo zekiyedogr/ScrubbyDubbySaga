@@ -1,0 +1,4 @@
+#Fri Sep 15 10:53:41 TRT 2023
+base.0=C\:\\Users\\DELL\\Desktop\\Games\\ScrubbyDubbySaga\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\launcher\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
